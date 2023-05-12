@@ -10,6 +10,7 @@
     min-height: 100vh;
     background-image: url(images/flat-lay-notebook-with-list-desk.jpg);
     background-size: 100%;
+    background-repeat:no-repeat;
     background-position:center;
     padding: 10px;
     position: relative;
