@@ -15,6 +15,18 @@
     position: relative;
 }
 
+@media screen and (max-width: 1000px) {
+
+    .container {
+
+        background-size: auto auto;
+
+        background-position: contain;
+
+    }
+
+}
+
 .todo-app {
     width: 100%;
     max-width: 540px;
